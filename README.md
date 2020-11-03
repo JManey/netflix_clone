@@ -1,3 +1,6 @@
+Netlfix clone with help from a youtube tutorial.  
+View finished project https://netflix-clone-4d720.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
